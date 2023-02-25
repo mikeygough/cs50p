@@ -15,3 +15,6 @@ an introductory python programming course that teaches students how to read and 
   <li>Regular Expressions</li>
   <li>Object-Oriented Programming</li>
 </ul>
+
+<img src="cs50p-certificate.png"
+     alt="cs50p-certificate"/>
